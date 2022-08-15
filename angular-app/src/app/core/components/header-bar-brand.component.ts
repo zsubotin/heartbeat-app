@@ -13,8 +13,8 @@ import { Component } from '@angular/core';
         <img src="assets/IW_Logo_White.png" alt="IM">
       </a>
       <a class="navbar-item nav-home" router-link="/">
-        <span class="brand-first">Clearing___</span>
-        <span class="brand-second">Heart</span>
+        <span class="brand-first">Clearing&nbsp;</span>
+        <span class="brand-second">Heart&nbsp;</span>
         <span class="brand-third">Beat</span>
       </a>
     </div>
