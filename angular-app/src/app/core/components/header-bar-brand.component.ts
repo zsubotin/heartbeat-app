@@ -10,12 +10,12 @@ import { Component } from '@angular/core';
         target="_blank"
         rel="noopener noreferrer"
       >
-        <i class="fab js-logo fa-angular fa-2x" aria-hidden="true"></i>
+        <img src="assets/IW_Logo_White.png" alt="IM">
       </a>
       <a class="navbar-item nav-home" router-link="/">
-        <span class="brand-first">MY</span>
-        <span class="brand-second">SHOPPING</span>
-        <span class="brand-third">LIST</span>
+        <span class="brand-first">Clearing </span>
+        <span class="brand-second">Heart</span>
+        <span class="brand-third">Beat</span>
       </a>
     </div>
   `,
