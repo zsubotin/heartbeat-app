@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
           This app shows current Clearing health check status.
         </p>
         <br />
-        <h2 class="title">Owner</h2>
+        <h2 class="title">Copyright</h2>
         <p>
           Integrated Worlds GmbH
         </p>
